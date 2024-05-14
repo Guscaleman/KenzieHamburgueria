@@ -1,0 +1,30 @@
+.btn-default{
+    background-color: #BDBDBD;
+    border-radius: 0.5rem;
+    padding: 0.875rem 1.25rem;
+    color: #FFFFFF;
+
+    font-family: var(--font-primary);
+    font-size: 1rem;
+    font-weight: 600;
+
+    &:hover{
+        background-color: var(--color-primary);
+      }
+}
+
+.btn-medium{
+    background-color: #BDBDBD;
+    border-radius: 0.5rem;
+    height: 2.5rem;
+    padding: 0rem 1.25rem;
+    color: #FFFFFF;
+
+    font-family: var(--font-primary);
+    font-size: 1rem;
+    font-weight: 600;
+
+    &:hover{
+        background-color: var(--color-primary);
+      }
+}
